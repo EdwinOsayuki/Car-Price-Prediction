@@ -1,6 +1,3 @@
-# Car-Price-Prediction
-This project aims to predict the price of a used Car by taking its Company name, it's Model name, Year of Purchase, and other parameters.
-
 # Car Price Predictor
 
 Project link: https://car-price-price.herokuapp.com
@@ -49,5 +46,4 @@ And you are good to go.
 
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
-
 
